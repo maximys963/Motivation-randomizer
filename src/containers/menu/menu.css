@@ -1,0 +1,22 @@
+.menu_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color: #2c2c2c;
+    background-color: white;
+    width: 100%;
+}
+.menu-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    width: 30%;
+}
+.menu-item{
+    font-weight: bold;
+    width: 150px;
+}
